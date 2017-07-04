@@ -1,0 +1,1 @@
+"use strict";var newFunction=function(){console.log("a")};
